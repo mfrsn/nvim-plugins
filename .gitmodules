@@ -1,0 +1,48 @@
+[submodule "opt/gruvbox"]
+	path = opt/gruvbox
+	url = https://github.com/gruvbox-community/gruvbox
+[submodule "start/cmp-path"]
+	path = start/cmp-path
+	url = https://github.com/hrsh7th/cmp-path
+[submodule "start/cmp-buffer"]
+	path = start/cmp-buffer
+	url = https://github.com/hrsh7th/cmp-buffer
+[submodule "start/cmp-nvim-lsp"]
+	path = start/cmp-nvim-lsp
+	url = https://github.com/hrsh7th/cmp-nvim-lsp
+[submodule "start/cmp-nvim-ultisnips"]
+	path = start/cmp-nvim-ultisnips
+	url = https://github.com/quangnguyen30192/cmp-nvim-ultisnips
+[submodule "start/nvim-lspconfig"]
+	path = start/nvim-lspconfig
+	url = https://github.com/neovim/nvim-lspconfig
+[submodule "start/vim-fugitive"]
+	path = start/vim-fugitive
+	url = https://github.com/neovim/nvim-lspconfig
+[submodule "start/nvim-treesitter"]
+	path = start/nvim-treesitter
+	url = https://github.com/tpope/vim-fugitive
+[submodule "start/nvim-cmp"]
+	path = start/nvim-cmp
+	url = https://github.com/hrsh7th/nvim-cmp
+[submodule "start/vim-tmux-navigator"]
+	path = start/vim-tmux-navigator
+	url = https://github.com/christoomey/vim-tmux-navigator
+[submodule "start/plenary.nvim"]
+	path = start/plenary.nvim
+	url = https://github.com/nvim-lua/plenary.nvim
+[submodule "start/tabular"]
+	path = start/tabular
+	url = https://github.com/godlygeek/tabular
+[submodule "start/vim-commentary"]
+	path = start/vim-commentary
+	url = https://github.com/tpope/vim-commentary
+[submodule "start/ultisnips"]
+	path = start/ultisnips
+	url = https://github.com/sirver/ultisnips
+[submodule "start/telescope.nvim"]
+	path = start/telescope.nvim
+	url = https://github.com/nvim-telescope/telescope.nvim
+[submodule "start/telescope-fzf-native.nvim"]
+	path = start/telescope-fzf-native.nvim
+	url = https://github.com/nvim-telescope/telescope-fzf-native.nvim
