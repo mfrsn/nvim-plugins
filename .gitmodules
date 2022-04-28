@@ -18,10 +18,10 @@
 	url = https://github.com/neovim/nvim-lspconfig
 [submodule "start/vim-fugitive"]
 	path = start/vim-fugitive
-	url = https://github.com/neovim/nvim-lspconfig
+	url = https://github.com/tpope/vim-fugitive
 [submodule "start/nvim-treesitter"]
 	path = start/nvim-treesitter
-	url = https://github.com/tpope/vim-fugitive
+	url = https://github.com/nvim-treesitter/nvim-treesitter
 [submodule "start/nvim-cmp"]
 	path = start/nvim-cmp
 	url = https://github.com/hrsh7th/nvim-cmp
