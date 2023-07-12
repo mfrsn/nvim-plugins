@@ -46,3 +46,15 @@
 [submodule "start/telescope-fzf-native.nvim"]
 	path = start/telescope-fzf-native.nvim
 	url = https://github.com/nvim-telescope/telescope-fzf-native.nvim
+[submodule "opt/gruvbox-material"]
+	path = opt/gruvbox-material
+	url = https://github.com/sainnhe/gruvbox-material
+[submodule "start/LuaSnip"]
+	path = start/LuaSnip
+	url = https://github.com/L3MON4D3/LuaSnip
+[submodule "start/cmp_luasnip"]
+	path = start/cmp_luasnip
+	url = https://github.com/saadparwaiz1/cmp_luasnip
+[submodule "start/lightspeed.nvim"]
+	path = start/lightspeed.nvim
+	url = https://github.com/ggandor/lightspeed.nvim
