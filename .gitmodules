@@ -67,3 +67,6 @@
 [submodule "start/catppuccin"]
 	path = start/catppuccin
 	url = https://github.com/catppuccin/nvim
+[submodule "start/gitsigns.nvim"]
+	path = start/gitsigns.nvim
+	url = https://github.com/lewis6991/gitsigns.nvim
