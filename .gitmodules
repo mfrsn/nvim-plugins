@@ -55,15 +55,9 @@
 [submodule "start/cmp_luasnip"]
 	path = start/cmp_luasnip
 	url = https://github.com/saadparwaiz1/cmp_luasnip
-[submodule "start/lightspeed.nvim"]
-	path = start/lightspeed.nvim
-	url = https://github.com/ggandor/lightspeed.nvim
 [submodule "start/vim-repeat"]
 	path = start/vim-repeat
 	url = https://github.com/tpope/vim-repeat
-[submodule "start/leap.nvim"]
-	path = start/leap.nvim
-	url = https://github.com/ggandor/leap.nvim
 [submodule "start/catppuccin"]
 	path = start/catppuccin
 	url = https://github.com/catppuccin/nvim
