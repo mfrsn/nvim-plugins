@@ -2,8 +2,7 @@
 
 Installation:
 
-    mkdir ~/.local/share/nvim/site/pack
-    cd ~/.local/share/nvim/site/pack
+    mkdir -p ~/.local/share/nvim/site/pack && cd $_
     git clone --recursive https://github.com/pearm/nvim-plugins.git plugins
 
 Build `telescope-fzf-native`:
