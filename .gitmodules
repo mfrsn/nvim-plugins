@@ -64,3 +64,6 @@
 [submodule "start/gitsigns.nvim"]
 	path = start/gitsigns.nvim
 	url = https://github.com/lewis6991/gitsigns.nvim
+[submodule "start/goto-preview"]
+	path = start/goto-preview
+	url = https://github.com/rmagatti/goto-preview
